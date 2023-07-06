@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XuSV34PyPDyxuPasHg1cmf98o6JC5DHDQ/dujxfcWFBlr8BZODJHfBOk3nSEeY3NdctWE9sgJvzXSXsbQylgww==",
+  "success": true,
+  "projectFilePath": "D:\\Projects-backup\\example_projects\\.Net\\Net7Api\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

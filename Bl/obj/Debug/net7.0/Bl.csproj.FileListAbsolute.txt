@@ -1,0 +1,17 @@
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\bin\Debug\net7.0\Bl.deps.json
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\bin\Debug\net7.0\Bl.dll
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\bin\Debug\net7.0\Bl.pdb
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\bin\Debug\net7.0\Dal.dll
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\bin\Debug\net7.0\Entities.dll
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\bin\Debug\net7.0\Dal.pdb
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\bin\Debug\net7.0\Entities.pdb
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.dll
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\refint\Bl.dll
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\Bl.pdb
+D:\Projects-backup\example_projects\.Net\Net7Api\Bl\obj\Debug\net7.0\ref\Bl.dll
